@@ -14,3 +14,5 @@ séries e seus episódios, com requisição de dados na API do Omdb
 - Serialização e desserialização
 - Consumo de APIs
 - Uso da dependência Jackson Bind
+- Banco de dados relacional
+- Hibernate
